@@ -1,7 +1,4 @@
 
-
-	import java.util.ArrayList;
-	import java.util.Scanner;
 	public class Task {
 	    private String name;
 	    private String description;
